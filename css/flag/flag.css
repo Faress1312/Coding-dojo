@@ -1,0 +1,32 @@
+body {
+    background-color:rgba(39, 39, 39, 0.68); /* Background color of Body */
+    font-size:0.5px;
+}
+.greece {
+    width: 675em; /* Horizontal Strip width */
+    height: 50em; /* Horizontal Strip Length */
+    background-color: rgb(13, 94, 175); /* Horizontal Strip Blue Color */
+    box-shadow: 0em 50em 0 0 rgb(255, 255, 255), 0em 100em 0 0 rgb(13, 94, 175), 0em 150em 0 0 rgb(255, 255, 255), 0em 200em 0 0 rgb(13, 94, 175), 0em 250em 0 0 rgb(255, 255, 255), 0em 300em 0 0 rgb(13, 94, 175), 0em 350em 0 0 rgb(255, 255, 255), 0em 400em 0 0 rgb(13, 94, 175); /* Forming whole flag */
+    
+}
+.greece::before{
+    content: ""; /* Mandatory Attribute */
+    position: absolute; /* Mandatory Attribute */
+    width: 150em; /* Width of Blue box for Cross */
+    height: 100em; /* Height of Blue box for Cross */
+    background-color: rgb(13, 94, 175); /*Blue Color of Box */
+    box-shadow: 100em 0em 0 0 rgb(13, 94, 175),100em 100em 0 0 rgb(13, 94, 175),0em 100em 0 0 rgb(13, 94, 175); /* Various positions of blue box */
+}
+.greece::after{
+    content: ""; /* Mandatory Attribute */
+    position: absolute; /* Mandatory Attribute */
+    width: 50em; /* Width of White box for Cross */
+    height: 50em; /* Height of White box for Cross */
+    background-color: rgb(255, 255, 255); /* White Box Color */
+    left: 100em; /* Positioning Parameters */
+    box-shadow: 0em 200em 0 0 white,0em 150em 0 0 white,-100em 100em 0 0 white,-50em 100em 0 0 white,0em 50em 0 0 white,50em 100em 0 0 white,100em 100em 0 0 white,0em 100em 0 0 white; /* Various position parameters of box */
+}
+div {
+    position: relative; /* For shift of hoist side to left */
+    left:50em; /* Shift threshold */
+}

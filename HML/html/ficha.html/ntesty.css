@@ -1,0 +1,47 @@
+<div class="wrapper">
+			<h1>box <span>model</span></h1>
+			<h2>subheading</h2>
+			<h3>Another heading</h3>
+			<div class="main">
+				<p class="bg">
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
+					velit et rem sequi quod amet impedit doloribus laboriosam dolores
+					optio.
+				</p>
+				<p class="small-p-tag">
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+					numquam incidunt voluptas nobis consequuntur veniam voluptatibus,
+					possimus debitis dolorem mollitia atque ad dolores voluptatem dolore
+					eveniet aliquam corporis ducimus amet. Vel enim voluptatibus
+					assumenda! Odit optio voluptates, sint possimus similique quibusdam
+					autem ipsa provident nisi reprehenderit natus sapiente quae odio dicta
+					temporibus debitis ullam nam fugiat quisquam magnam necessitatibus
+					error! Repellat eos optio, necessitatibus, rem quia natus veritatis
+					quod voluptates quos quis veniam sit fuga dolorum? Molestias, ullam
+					necessitatibus. Hic natus at blanditiis rerum itaque accusamus
+					repellat, incidunt adipisci nesciunt.
+				</p>
+			</div>
+			<!-- Links -->
+			<a href="#">Link1</a>
+			<a id="special-link" href="#">Link2</a>
+			<!-- list -->
+
+			<ul>
+				<li>one</li>
+				<li>two</li>
+				<li>three</li>
+			</ul>
+
+			<hr />
+
+			<!-- circle -->
+			<div class="circle"></div>
+
+			<hr />
+
+			<!-- boxes -->
+			<div id="box-1"></div>
+			<div id="box-2"></div>
+			<div id="box-3"></div>
+		</div>
