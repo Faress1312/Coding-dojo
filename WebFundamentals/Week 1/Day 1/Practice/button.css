@@ -1,0 +1,38 @@
+    
+    .Search {
+    background-color: aliceblue;
+    border-radius: 27px;
+    height: 35px;
+    width:130px;
+    color: #00D1B2;
+    border-color: #00D1B2;
+    margin: 20px 20px 0px 20px;
+    font-style: oblique ;
+    font-size: larger;
+        
+}
+.plus {
+    border-radius: 50%;
+    background-color: #00D1B2;
+    color: white;
+    border-color: #00D1B2;
+    margin: 20px 20px 0px 20px;
+    padding-top: 15px ;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.Create {
+    padding-top: 10px ;
+    padding-bottom: 30px;
+    height: 25px;
+    width:170px;
+    font-style: oblique;
+    font-size: larger;
+    background-color: #2B78E4;
+    color: white;
+    margin: 40px 20px;
+    box-shadow: 3px 3px black
+    
+
+}

@@ -1,0 +1,68 @@
+/* this is navbar */
+body{
+    width: 1000px;
+    margin: auto;
+}
+.navbar {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px;
+    border-color: rgb(42, 69, 92);
+    
+}
+.header {
+    justify-content: center;
+    display: flex;
+}
+/* this is main of the page */
+main {
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+.rightSide {
+    border: 1px solid black;
+}
+.leftSide {
+    border: 1px solid black;
+}
+.profile {
+    display: flex;
+    flex-direction: column;
+
+}
+.Neil {
+    display: flex;
+    justify-content: space-between;
+    gap:140px;
+    padding: 8px 8px;
+    align-items: center;
+    flex-direction: column;
+}
+.NeilUp {
+    display: flex ;
+    text-align: center;
+    gap:140px;
+    padding: 8px 8px;
+    align-items: center;
+}
+.NeildDown {
+    display: flex ;
+    text-align: center;
+}
+.likebutton {
+    background-color: orange;
+    padding: 9px 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid black; 
+    box-shadow: 0px 3px;
+
+}
+
+
+

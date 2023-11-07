@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <!-- navbar  -->
+    <div class="navbar">
+        <div class="leftnav">
+            <h1><span class="xd">Just</span>Dessert</h1>
+        </div>
+        <div class="rightnav">
+            <button id="join" onclick="remove(this)">Join</button>
+        <button id="Login">Login</button>
+        </div>
+        </div>
+        <!-- header  -->
+        <div class="header">
+            <div class="left-header">
+                <input type="text" class="searchInput" id="searchIn"  placeholder="SEARCH" >
+                <button class="go" onclick="alertMe()">Go</button>
+            </div>
+            <div class="right-header">
+                <div>
+                    <img src="./imgs/cake.png" alt="Cake" class="pics" >
+                    <p>Cake</p>
+                </div>
+                <div>
+                    <img src="./imgs/cookie.png" alt="Cookies" class="pics">
+                    <p>Cookies</p>
+                </div>
+                <div>
+                    <img src="./imgs/ice-cream.png" alt="ice-cream" class="pics">
+                    <p>Ice-cream</p>
+                </div>
+                <div>
+                    <img src="./imgs/pie.png" alt="pie" class="pics">
+                    <p>Pie</p>
+                </div>
+            </div>
+        </div>
+        <main>
+            <div class="leftmain">
+                <div class="leftmain-upSide">
+                    <div class="titleTart">
+                        <h1>Recipe of the day</h1>
+                    </div>
+                    
+                    <img src="./imgs/orange-tart.jpg" alt="" class="tart">
+                </div>
+                <div class="leftmain-downSide">
+                    <div class="yuri">
+                        <P>Orange tea Jelly Tart</P>
+                        <p>By: <a href=""><span class="by">Yuripiano</span></a></p>
+                    </div>
+                    <div class="yuri">
+                        <img src="./imgs/heart.png" onclick="likeit()" alt="tartLikes" class="heart">
+                        <span id="likeit">68</span>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="rightmain">
+                <div class="rightmain-recommended">
+                    <h5>Recommended for you</h5>
+                    <img src="./imgs/macarons.jpg" alt="" class="macarons">
+                    <div class="downMacarons">
+                        <div><p>Macarons</p>
+                            
+                            <p>By: <a href=""><span class="by" >EmillieW</span></a></p>
+                        </div>
+                        <div>
+                            <img src="./imgs/heart.png" onclick="like()" alt="" class="heart"> 
+                            <span id="likePlus" >212</span>
+                        </div>
+                    </div>
+                    <img src="./imgs/creme-brulee.jpg" alt="" class="macarons">
+                    <div class="downMacarons">
+                        <div>
+                            <p>Créme bruleé</p>
+                            <p>By: <a href=""><span class="by">MarisaG</span></a></p>
+                        </div>
+                        <div>
+                            <img src="./imgs/heart.png" onclick="likeme()" alt="" class="heart"> 
+                            <span id="likeme" >32</span>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </main>
+    <script src="index.js"></script>
+</body>
+</html>
