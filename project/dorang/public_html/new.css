@@ -1,0 +1,57 @@
+
+#myVideo {
+    
+    position: fixed;
+ 
+  width: 100%; 
+  height: auto;
+  }
+  
+  .navbar2 {
+    display: flex;
+    position: fixed;
+    background: rgba(0, 0, 0, 0);
+    color: #ffffff;
+    width: 100%;
+    padding: 50px;
+    gap: 50px;
+    align-items: center;
+    margin-left: 40px;
+  }
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+.navlinks {
+    
+    color: rgb(156, 121, 5);
+    gap: 10px;
+    display: flex;
+    font-size:22px ;
+
+
+}
+.navlinks1 {
+    justify-content: center;
+    display: flex;
+    width: 80%;
+    gap: 70px;
+
+}
+h1 {
+    color:  rgb(184, 237, 100);
+    font-family: 'Bebas Neue', sans-serif;
+}
+span {
+    color: rgb(39, 103, 141);
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+.cc {
+    background:url("./wolf.png") no-repeat center center;
+    background-size:contain ;
+    transform: translate(-50%, -50%);*
+    
+}
