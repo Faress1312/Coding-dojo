@@ -37,7 +37,7 @@ class User:
         self.vipAcc.display_info()
         return self
 
-# Example usage:
+
 vip_account = VipAccount()
 FaresAlaya = User("Fares Alaya", "fares@example.com", vip_account)
 FaresAlaya.deposit(3211).deposit(756443).deposit(21212).deposit(3494).display_My_account()
