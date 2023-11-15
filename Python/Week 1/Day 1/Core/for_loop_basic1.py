@@ -3,5 +3,10 @@ for x in range(0, 150):
 # if x == 150 :
 for x in range(150 , 1000 , 5) :
     print(x)
-if (x ==x +5 ) :
-    print("Coding")
+for i in range(1, 101):
+    if i % 10 == 0:
+        print("Coding Dojo")
+    elif i % 5 == 0:
+        print("Coding")
+    else:
+        print(i)
