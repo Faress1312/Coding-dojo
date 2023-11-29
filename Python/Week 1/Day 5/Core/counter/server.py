@@ -17,7 +17,10 @@ def simple():
 
     return render_template("index.html",session=session)
 
-
+@app.route('/destroy_session' ,methods={'POST'})
+def destroy():
+    session["destroy"] == 0
+    return render_template("index.html ",session=session)
 
 @app.route('/',methods={'POST'})     
 def add():
