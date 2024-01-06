@@ -62,21 +62,21 @@ db.students.updateMany({}, {
 })
 
 
-db.students.updateOne({ name: "Ramzi" }, { $push: { interests: 'hiking' } })
-db.students.updateOne({ name: "Emna" }, { $push: { interests: 'reading' } })
+db.students.updateOne({ name: "fares" }, { $push: { interests: 'hiking' } })
+db.students.updateOne({ name: "ma man" }, { $push: { interests: 'reading' } })
 
 
 
-db.students.updateOne({ name: "Ramzi" }, { $push: { interests: 'taxes' } })
+db.students.updateOne({ name: "fares" }, { $push: { interests: 'taxes' } })
 
 
-db.students.updateOne({ name: "Ramzi" }, { $pull: { interests: 'taxes' } })
+db.students.updateOne({ name: "fares" }, { $pull: { interests: 'taxes' } })
 
 
 db.students.deleteMany({ home_state: "California" })
 
 
-db.students.deleteOne({ name: "Emna" })
+db.students.deleteOne({ name: "ma man" })
 
 
 db.students.deleteOne({ lucky_number: { $gt: 5 } })
