@@ -5,23 +5,23 @@ db.createCollection("students")
 
 // Student 1
 db.students.insertOne({
-  name: "Ramzi",
-  home_state: "Kibelli",
+  name: "fares",
+  home_state: "alaya",
   lucky_number: 13,
   birthday: { month: 12, day: 13, year: 1994 }
 }
 
 // Student 2
 db.students.insertOne({
-  name: "Emna",
-  home_state: "Paris",
+  name: "ma man",
+  home_state: "gafsa",
   lucky_number: 11,
   birthday: { month: 10, day: 20, year: 2000 }
 })
 
 // Student 3
 db.students.insertOne({
-  name: "Siam",
+  name: "aka",
   home_state: "New York",
   lucky_number: 12,
   birthday: { month: 10, day: 8, year: 1999 }
@@ -29,16 +29,16 @@ db.students.insertOne({
 
 // Student 4
 db.students.insertOne({
-  name: "Sophia",
-  home_state: "Texas",
+  name: "abuoubayda",
+  home_state: "gaza",
   lucky_number: 30,
   birthday: { month: 12, day: 29, year: 2000 }
 })
 
 // Student 5
 db.students.insertOne({
-  name: "Dani",
-  home_state: "Rome",
+  name: "me",
+  home_state: "palastine",
   lucky_number: 11,
   birthday: { month: 5, day: 19, year: 1998 }
 })
