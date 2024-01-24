@@ -1,0 +1,15 @@
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\bin\Debug\net8.0\OOPlecture.exe
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\bin\Debug\net8.0\OOPlecture.deps.json
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\bin\Debug\net8.0\OOPlecture.runtimeconfig.json
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\bin\Debug\net8.0\OOPlecture.dll
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\bin\Debug\net8.0\OOPlecture.pdb
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\OOPlecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\OOPlecture.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\OOPlecture.AssemblyInfo.cs
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\OOPlecture.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\OOPlecture.sourcelink.json
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\OOPlecture.dll
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\refint\OOPlecture.dll
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\OOPlecture.pdb
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\OOPlecture.genruntimeconfig.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\OOPlecture\obj\Debug\net8.0\ref\OOPlecture.dll
