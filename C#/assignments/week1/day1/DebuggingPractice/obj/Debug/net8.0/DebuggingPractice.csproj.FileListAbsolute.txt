@@ -1,0 +1,15 @@
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.exe
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.deps.json
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.runtimeconfig.json
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.dll
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.pdb
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.AssemblyInfo.cs
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.sourcelink.json
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.dll
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\refint\DebuggingPractice.dll
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.pdb
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.genruntimeconfig.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\assignments\week1\day1\DebuggingPractice\obj\Debug\net8.0\ref\DebuggingPractice.dll
