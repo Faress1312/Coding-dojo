@@ -304,36 +304,131 @@
 
 
 
-class Program
+// class Program
+// {
+//     static Dictionary<string, int> GenerateDictionary(List<string> Names, List<int> Numbers)
+//     {
+//         Dictionary<string, int> resultDict = new Dictionary<string, int>();
+
+//         if (Names.Count != Numbers.Count)
+//         {
+//            System.Console.WriteLine("Number of names must match the number of numbers.");
+//         }
+
+//         for (int i = 0; i < Names.Count; i++)
+//         {
+//             resultDict.Add(Names[i], Numbers[i]);
+//         }
+
+//         return resultDict;
+//     }
+
+//     static void Main(string[] args)
+//     {
+//         List<string> names = new List<string>() { "Julie", "Harold", "James", "Monica" };
+//         List<int> numbers = new List<int>() { 6, 12, 7, 10 };
+
+//         Dictionary<string, int> result = GenerateDictionary(names, numbers);
+
+//         System.Console.WriteLine("Generated Dictionary:");
+//         foreach (var amg in result)
+//         {
+//             System.Console.WriteLine($"\"{amg.Key}\": {amg.Value}");
+//         }
+//     }
+// }
+
+
+
+
+
+
+
+//PUZZLE
+
+
+
+
+
+
+
+
+string flipResult = CoinFlip();
+Console.WriteLine("The coin landed on: " + flipResult);
+
+
+static string CoinFlip()
 {
-    static Dictionary<string, int> GenerateDictionary(List<string> Names, List<int> Numbers)
+    Random random = new Random();
+    int result = random.Next(2);
+
+    if (result == 0)
     {
-        Dictionary<string, int> resultDict = new Dictionary<string, int>();
-
-        if (Names.Count != Numbers.Count)
-        {
-           System.Console.WriteLine("Number of names must match the number of numbers.");
-        }
-
-        for (int i = 0; i < Names.Count; i++)
-        {
-            resultDict.Add(Names[i], Numbers[i]);
-        }
-
-        return resultDict;
+        return "heads";
     }
-
-    static void Main(string[] args)
+    else
     {
-        List<string> names = new List<string>() { "Julie", "Harold", "James", "Monica" };
-        List<int> numbers = new List<int>() { 6, 12, 7, 10 };
-
-        Dictionary<string, int> result = GenerateDictionary(names, numbers);
-
-        System.Console.WriteLine("Generated Dictionary:");
-        foreach (var amg in result)
-        {
-            System.Console.WriteLine($"\"{amg.Key}\": {amg.Value}");
-        }
+        return "tails";
     }
 }
+
+
+
+
+int dicerolll = DiceRoll();
+Console.WriteLine( dicerolll);
+
+
+static int DiceRoll()
+{
+    Random random = new Random();
+    int result = random.Next(6);
+
+
+ 
+
+        return result+1;
+
+}
+
+
+    static void StatRoll()
+    {
+        for (int i = 0; i < 4; i++)
+        {
+            Console.WriteLine(RollDice());
+        }
+    }
+
+    static int RollDice()
+    {
+        Random random = new Random();
+        return random.Next(1, 7);
+    }
+
+    StatRoll();
+
+
+
+static void RollUnit()
+{
+       int targetNumber = 3; 
+        string rollResult = RollUntil(targetNumber);
+        Console.WriteLine(rollResult);
+}
+ static string RollUntil(int targetNumber)
+    {
+        Random random = new Random();
+        int count = 0;
+        int result;
+
+        do
+        {
+            result = random.Next(1, 7);
+            count++;
+        } while (result != targetNumber);
+
+        return $"Rolled a {targetNumber} after {count} tries";
+    }
+
+RollUnit();
