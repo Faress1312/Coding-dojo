@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "c/p5WbLMgnC6h6EM7pxpyUMO38l3/dqhiNZuBnKtq4H6XgYhBofAej/2RZkFrQ8ty1gM0GkB4w6EgBOYiPqrOA==",
+  "dgSpecHash": "/cCc1fLyN5Wrw0rKsgqq664rb9r4+sWrIzbVQG83GG4RmibQ2XtEalzL2KckyFmd1SI1QRm12Qq7edEOyQQ5yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\DEV\\Coding-Dojo\\CSharpStack\\week_1\\Day_5\\Core\\Session Workshop\\Session\\Session.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day5\\Core\\Session Workshop\\Session\\Session.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

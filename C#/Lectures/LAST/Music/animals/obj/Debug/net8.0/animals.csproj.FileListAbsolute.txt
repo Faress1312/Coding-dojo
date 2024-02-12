@@ -1,0 +1,9 @@
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\Lectures\LAST\Music\animals\obj\Debug\net8.0\animals.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\Lectures\LAST\Music\animals\obj\Debug\net8.0\animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\Lectures\LAST\Music\animals\obj\Debug\net8.0\animals.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\Lectures\LAST\Music\animals\obj\Debug\net8.0\animals.AssemblyInfo.cs
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\Lectures\LAST\Music\animals\obj\Debug\net8.0\animals.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\Lectures\LAST\Music\animals\obj\Debug\net8.0\animals.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\Lectures\LAST\Music\animals\obj\Debug\net8.0\animals.RazorAssemblyInfo.cache
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\Lectures\LAST\Music\animals\obj\Debug\net8.0\animals.RazorAssemblyInfo.cs
+C:\Users\MSI\OneDrive\Desktop\Coding dojo\C#\Lectures\LAST\Music\animals\obj\Debug\net8.0\animals.sourcelink.json

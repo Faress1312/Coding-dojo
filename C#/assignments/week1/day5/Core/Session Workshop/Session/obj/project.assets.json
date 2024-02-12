@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\MSI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\DEV\\Coding-Dojo\\CSharpStack\\week_1\\Day_5\\Core\\Session Workshop\\Session\\Session.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day5\\Core\\Session Workshop\\Session\\Session.csproj",
       "projectName": "Session",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\DEV\\Coding-Dojo\\CSharpStack\\week_1\\Day_5\\Core\\Session Workshop\\Session\\Session.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\DEV\\Coding-Dojo\\CSharpStack\\week_1\\Day_5\\Core\\Session Workshop\\Session\\obj\\",
+      "projectPath": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day5\\Core\\Session Workshop\\Session\\Session.csproj",
+      "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day5\\Core\\Session Workshop\\Session\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -54,6 +54,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -62,7 +80,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

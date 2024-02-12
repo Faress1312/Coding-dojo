@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day2\\GameDeveloper\\GameDeveloper.csproj",
-      "projectName": "GameDeveloper",
-      "projectPath": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day2\\GameDeveloper\\GameDeveloper.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day1\\fundament\\day1.csproj",
+      "projectName": "day1",
+      "projectPath": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day1\\fundament\\day1.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day2\\GameDeveloper\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\OneDrive\\Desktop\\Coding dojo\\C#\\assignments\\week1\\day1\\fundament\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config"
